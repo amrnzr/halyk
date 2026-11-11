@@ -1,0 +1,1680 @@
+{
+  "00945fcaafc9.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "009f593fc165.pdf": {
+    "account_id": "ACC-7505",
+    "covenants": []
+  },
+  "025a9e991be7.pdf": {
+    "account_id": "ACC-7401",
+    "covenants": []
+  },
+  "02857eb9f9d9.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "035f62d1abe3.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "039597d6b540.pdf": {
+    "account_id": "ACC-7830",
+    "covenants": []
+  },
+  "04eee2e9ba8c.pdf": {
+    "account_id": "ACC-7301",
+    "covenants": []
+  },
+  "069f03fe8db5.pdf": {
+    "account_id": "INC-36320",
+    "covenants": []
+  },
+  "06f67099769a.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "075fef42f94d.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "096bdbf2d725.pdf": {
+    "account_id": "ACC-7502",
+    "covenants": []
+  },
+  "0a80bc3eef9e.pdf": {
+    "account_id": "TELE-4471",
+    "covenants": []
+  },
+  "0af24553b55a.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "0be6bbc27ee1.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "0c662186139a.pdf": {
+    "account_id": "ACC-7603",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "max_expense",
+        "limit": 1000000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "max_expense",
+        "limit": 200000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.3",
+        "type": "max_expense",
+        "limit": 700000.0,
+        "period_start": null,
+        "period_end": null
+      }
+    ]
+  },
+  "0d8e3d46bfc3.pdf": {
+    "account_id": "ACC-7401",
+    "covenants": []
+  },
+  "0dcaec5bcb35.pdf": {
+    "account_id": "ACC-7002",
+    "covenants": []
+  },
+  "0e17c7cb10c5.pdf": {
+    "account_id": "ACC-7503",
+    "covenants": []
+  },
+  "1019b3c35437.pdf": {
+    "account_id": "ACC-7505",
+    "covenants": []
+  },
+  "118ce9f4c737.pdf": {
+    "account_id": "ACC-7303",
+    "covenants": []
+  },
+  "119a393eb230.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "11d065720a78.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "121656027dd2.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "12aca9c750a4.pdf": {
+    "account_id": "ACC-7501",
+    "covenants": []
+  },
+  "13fb39fe2789.pdf": {
+    "account_id": "ACC-7602",
+    "covenants": []
+  },
+  "142c5c36d5c9.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "1605d9f68c57.pdf": {
+    "account_id": "ACC-7603",
+    "covenants": []
+  },
+  "1759cb164e9d.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "17b53ae1abf6.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "1a6a5d981b08.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "1be30bff6ba8.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "1c7eee333748.pdf": {
+    "account_id": "ACC-7001",
+    "covenants": []
+  },
+  "1ca16bd42187.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "1d2613c38e70.pdf": {
+    "account_id": "ACC-7830",
+    "covenants": []
+  },
+  "1d2e7ee568e8.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "1dc91055dd80.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "1df089217ed2.pdf": {
+    "account_id": "ACC-7001",
+    "covenants": []
+  },
+  "1e6d644b6a1c.pdf": {
+    "account_id": "ACC-7502",
+    "covenants": []
+  },
+  "1f934bbaaf81.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "20dc0c7172a4.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "218830fe095f.pdf": {
+    "account_id": "ACC-7402",
+    "covenants": []
+  },
+  "219a55a2f697.pdf": {
+    "account_id": "ACC-7003",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "max_dolgvodnaya_nalog",
+        "limit": 1000000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "max_expense",
+        "limit": 2500000.0,
+        "period_start": null,
+        "period_end": null
+      },
+      {
+        "clause": "6.3",
+        "type": "max_single_tx",
+        "limit": 600000.0,
+        "period_start": null,
+        "period_end": null
+      }
+    ]
+  },
+  "21a85b4e039c.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "21bae98494e0.pdf": {
+    "account_id": "ACC-7606",
+    "covenants": []
+  },
+  "2204ebfc719c.pdf": {
+    "account_id": "ACC-7203",
+    "covenants": []
+  },
+  "2239b6b58f06.pdf": {
+    "account_id": "INC-56011",
+    "covenants": []
+  },
+  "23e04cb90259.pdf": {
+    "account_id": "ACC-7606",
+    "covenants": []
+  },
+  "26b972a6747b.pdf": {
+    "account_id": "ACC-7203",
+    "covenants": []
+  },
+  "275bb806161f.pdf": {
+    "account_id": "TELE-4471",
+    "covenants": []
+  },
+  "27eabd5b4b9c.pdf": {
+    "account_id": "ACC-7501",
+    "covenants": []
+  },
+  "2859739faaf5.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "28c3db3fffac.pdf": {
+    "account_id": "ACC-7401",
+    "covenants": []
+  },
+  "28d5ca5bec53.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "29b501d0207f.pdf": {
+    "account_id": "ACC-7830",
+    "covenants": []
+  },
+  "2a3cfd8c498d.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "2a55d8058273.pdf": {
+    "account_id": "ACC-7831",
+    "covenants": []
+  },
+  "2ac5b394ab93.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "2bbd6942d96a.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "2bef13bc14a1.pdf": {
+    "account_id": "ACC-7302",
+    "covenants": []
+  },
+  "2c5ce9024d3d.pdf": {
+    "account_id": "ACC-7501",
+    "covenants": []
+  },
+  "2c5e5a1077e1.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "2e91d97fefe1.pdf": {
+    "account_id": "ACC-7503",
+    "covenants": []
+  },
+  "2f6919bc5086.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "2fbd43a9a0e5.pdf": {
+    "account_id": "ACC-7830",
+    "covenants": []
+  },
+  "2fe79f0f0b0a.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "3483e7012c1a.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "35534d2594da.pdf": {
+    "account_id": "ACC-7601",
+    "covenants": []
+  },
+  "375504a0a17f.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "37d6361cb201.pdf": {
+    "account_id": "ACC-7602",
+    "covenants": []
+  },
+  "39ef88910f55.pdf": {
+    "account_id": "ACC-7602",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "двойной поддерживающий тест",
+        "limit": 1000000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "без предварительного письменного согласия Кредитора Заёмщик не вправе привлекать дополнительную задолженность по займам и кредитам, за исключением: задолженности перед Кредитором; торговой кредиторской задолженности, возникающей в обычной хозяйственной деятельности; и иной задолженности, совокупный размер которой в любой момент времени не превышает $5,750,000.00.",
+        "limit": 1000000.0,
+        "period_start": null,
+        "period_end": null
+      },
+      {
+        "clause": "6.3",
+        "type": "минимальная рентабельность по EBITDA",
+        "limit": 0.25,
+        "period_start": null,
+        "period_end": null
+      }
+    ]
+  },
+  "3a161813c6c0.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "3b5dc98f097e.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "3c67142aca4d.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "3d2f71627be3.pdf": {
+    "account_id": "ACC-7503",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "минимальный коэффициент покрытия постоянных платежей",
+        "limit": 150.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "max_expense",
+        "limit": 1000000.0,
+        "period_start": null,
+        "period_end": null
+      },
+      {
+        "clause": "6.3",
+        "type": "Ограничительные обязательства",
+        "limit": 400000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      }
+    ]
+  },
+  "3dda4fcfa080.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "3e0e397cc8c9.pdf": {
+    "account_id": "ACC-7606",
+    "covenants": []
+  },
+  "3ea70ad2475c.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "3ed11c6a6ad1.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "3f45b63699b8.pdf": {
+    "account_id": "ACC-7203",
+    "covenants": []
+  },
+  "3fc1152e4b50.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "4033a656a972.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "406193ba2f4b.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "4089d131d391.pdf": {
+    "account_id": "ACC-7202",
+    "covenants": []
+  },
+  "432874c7c8c7.pdf": {
+    "account_id": "ACC-7504",
+    "covenants": []
+  },
+  "4386f205a260.pdf": {
+    "account_id": "ACC-7832",
+    "covenants": []
+  },
+  "44d238ccf3fc.pdf": {
+    "account_id": "ACC-7503",
+    "covenants": []
+  },
+  "463334f6c266.pdf": {
+    "account_id": "ACC-7603",
+    "covenants": []
+  },
+  "463fa71f98fa.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "479c535eaf55.pdf": {
+    "account_id": "ACC-7601",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "minimal_kqbitable_EBITDA",
+        "limit": 600000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "max_capitalization_ratio",
+        "limit": 1800000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.3",
+        "type": "max_expense",
+        "limit": 1200000.0,
+        "period_start": null,
+        "period_end": null
+      }
+    ]
+  },
+  "47c6c900dab0.pdf": {
+    "account_id": "ACC-7302",
+    "covenants": []
+  },
+  "499725996d51.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "49f817d650e9.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "4a0354aa0e0b.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "4a4ecbc91b54.pdf": {
+    "account_id": "ACC-7832",
+    "covenants": []
+  },
+  "4b249678ca5b.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "4c169803be12.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "4e4e1e60ba16.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "4e63fcc0d7cf.pdf": {
+    "account_id": "ACC-7830",
+    "covenants": []
+  },
+  "515718a1a2ad.pdf": {
+    "account_id": "ACC-7831",
+    "covenants": []
+  },
+  "540985b9d514.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "566d43ded9c9.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "5693ed226545.pdf": {
+    "account_id": "ACC-7605",
+    "covenants": []
+  },
+  "56a1f4f25ea8.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "56dff0aa7214.pdf": {
+    "account_id": "ACC-7606",
+    "covenants": []
+  },
+  "573a9cefc75f.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "574d17b3a40b.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "5761832b2616.pdf": {
+    "account_id": "ACC-7205",
+    "covenants": []
+  },
+  "5788e8207823.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "57fd791ca59d.pdf": {
+    "account_id": "AR-2025",
+    "covenants": []
+  },
+  "58e2e1277a4d.pdf": {
+    "account_id": "ACC-7002",
+    "covenants": []
+  },
+  "599c51ea04d7.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "59bf66bb1c53.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "5a4a9e6b5ef7.pdf": {
+    "account_id": "ACC-7401",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "коэффициент чистой долговой нагрузки",
+        "limit": 3.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "min_revenue",
+        "limit": 7200000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.3",
+        "type": "Ограничительные обязательства",
+        "limit": 240000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      }
+    ]
+  },
+  "5d733f8420f5.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "5db12e870ef7.pdf": {
+    "account_id": "ACC-7002",
+    "covenants": []
+  },
+  "5ef93aec876b.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "5f2c1d257654.pdf": {
+    "account_id": "ACC-7601",
+    "covenants": []
+  },
+  "5f934ef0faa6.pdf": {
+    "account_id": "ACC-7403",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "limit",
+        "limit": 2500000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "min_revenue",
+        "limit": 7300000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.3",
+        "type": "max_single_tx",
+        "limit": 255000.0,
+        "period_start": null,
+        "period_end": null
+      }
+    ]
+  },
+  "5fe5f8c6a2fb.pdf": {
+    "account_id": "ACC-7605",
+    "covenants": []
+  },
+  "61de5801191d.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "621cd26bfc92.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "627fa3a6c0ae.pdf": {
+    "account_id": "ACC-7601",
+    "covenants": []
+  },
+  "62cf50073800.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "6368dd2f0a2b.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "63ca5dd52c6e.pdf": {
+    "account_id": "ACC-7605",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "Условный лимит капитальных затрат (по долговой нагрузке Группы)",
+        "limit": 1800000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "капитальные_затраты к EBITDA",
+        "limit": 70.0,
+        "period_start": null,
+        "period_end": null
+      },
+      {
+        "clause": "6.3",
+        "type": "min_revenue",
+        "limit": 6000000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      }
+    ]
+  },
+  "648f6ceb57d5.pdf": {
+    "account_id": "ACC-7831",
+    "covenants": []
+  },
+  "64df8113f149.pdf": {
+    "account_id": "ACC-7303",
+    "covenants": []
+  },
+  "64f1c039f67f.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "653010306cf6.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "6585a1f22214.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "6649038af4b8.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "666cf022484d.pdf": {
+    "account_id": "ACC-7003",
+    "covenants": []
+  },
+  "66e897f4ff13.pdf": {
+    "account_id": "ACC-7003",
+    "covenants": []
+  },
+  "6857725f0496.pdf": {
+    "account_id": "ACC-7001",
+    "covenants": []
+  },
+  "690dbb5354b8.pdf": {
+    "account_id": "ACC-7604",
+    "covenants": [
+      {
+        "clause": "5.1",
+        "type": "контрольный лимит",
+        "limit": 1000000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "5.2",
+        "type": "кредитный коэффициент",
+        "limit": 3.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "5.3",
+        "type": "кредитный ограничитель",
+        "limit": 1000000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      }
+    ]
+  },
+  "6935d8cf706f.pdf": {
+    "account_id": "TELE-4471",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "максимальный коэффициент долговой нагрузки",
+        "limit": 1500000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "percentage_of_revenue",
+        "limit": 8000000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.3",
+        "type": "max_expense",
+        "limit": 20000000.0,
+        "period_start": null,
+        "period_end": null
+      }
+    ]
+  },
+  "69585c338a66.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "6963dfd94d4c.pdf": {
+    "account_id": "OPS-014",
+    "covenants": []
+  },
+  "6e5096cf3498.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "722822863f45.pdf": {
+    "account_id": "ACC-7205",
+    "covenants": []
+  },
+  "72f54a3f6e4c.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "74f64cdc1652.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "757e2780e1f1.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "75fa6d77cdfa.pdf": {
+    "account_id": "ACC-7831",
+    "covenants": []
+  },
+  "75fa8a342fc7.pdf": {
+    "account_id": "ACC-7401",
+    "covenants": []
+  },
+  "7a35bdbeefb1.pdf": {
+    "account_id": "ACC-7601",
+    "covenants": []
+  },
+  "7a6e8d728a7f.pdf": {
+    "account_id": "ACC-7002",
+    "covenants": []
+  },
+  "7bb526721ea2.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "7cc2a0db5e26.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "7cec9a7409ff.pdf": {
+    "account_id": "TELE-4471",
+    "covenants": []
+  },
+  "7e6bd406fff4.pdf": {
+    "account_id": "ACC-7502",
+    "covenants": []
+  },
+  "7ebd848a4801.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "7fe07a867e72.pdf": {
+    "account_id": "ACC-7403",
+    "covenants": []
+  },
+  "8077b8a4c469.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "809df5e7e6fa.pdf": {
+    "account_id": "ACC-7603",
+    "covenants": []
+  },
+  "8134374c4720.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "819fd1fdae53.pdf": {
+    "account_id": "ACC-7605",
+    "covenants": []
+  },
+  "82c3675ff933.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "84fe40feaa4b.pdf": {
+    "account_id": "ACC-7501",
+    "covenants": []
+  },
+  "8640f7248222.pdf": {
+    "account_id": "ACC-7504",
+    "covenants": []
+  },
+  "875b00bb7cbd.pdf": {
+    "account_id": "ACC-7402",
+    "covenants": []
+  },
+  "882c83920c55.pdf": {
+    "account_id": "ACC-7402",
+    "covenants": []
+  },
+  "883feced2a55.pdf": {
+    "account_id": "ACC-7832",
+    "covenants": []
+  },
+  "88530c890b6e.pdf": {
+    "account_id": "ACC-7303",
+    "covenants": []
+  },
+  "88cbdf814645.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "89646871ce18.pdf": {
+    "account_id": "ACC-7001",
+    "covenants": []
+  },
+  "8a083af194bd.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "8ac805999373.pdf": {
+    "account_id": "ACC-7603",
+    "covenants": []
+  },
+  "8ace7d16604e.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "8c2bee243c50.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "8cf955b4c21a.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "8d88a77bdb7c.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "8dfef545c817.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "8e291ed5f860.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "8eb91d1a171f.pdf": {
+    "account_id": "ACC-7301",
+    "covenants": []
+  },
+  "8ff836b0c258.pdf": {
+    "account_id": "ACC-7302",
+    "covenants": []
+  },
+  "904dea48b34b.txt": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "93a91adb579b.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "9430869f75d9.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "946893551b57.pdf": {
+    "account_id": "ACC-7003",
+    "covenants": []
+  },
+  "957becbbee24.pdf": {
+    "account_id": "ACC-7202",
+    "covenants": []
+  },
+  "9613f6490490.pdf": {
+    "account_id": "ACC-7603",
+    "covenants": []
+  },
+  "9abffc88dea0.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "9b0c5006f05c.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "9b8cddd4f99f.pdf": {
+    "account_id": "ACC-7205",
+    "covenants": []
+  },
+  "9b936673d27e.pdf": {
+    "account_id": "ACC-7303",
+    "covenants": []
+  },
+  "9cafe868c3e9.pdf": {
+    "account_id": "ACC-7402",
+    "covenants": []
+  },
+  "9d26e711580f.pdf": {
+    "account_id": "ACC-7301",
+    "covenants": []
+  },
+  "9d530e74281f.pdf": {
+    "account_id": "ACC-7002",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "max_expense",
+        "limit": 3000000.0,
+        "period_start": null,
+        "period_end": null
+      },
+      {
+        "clause": "6.2",
+        "type": "min_revenue",
+        "limit": 5150000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.3",
+        "type": "max_expense",
+        "limit": 400000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      }
+    ]
+  },
+  "9d9ce8ebab63.pdf": {
+    "account_id": "ACC-7001",
+    "covenants": []
+  },
+  "9dd5befa1b25.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "a07b571518c1.pdf": {
+    "account_id": "ACC-7505",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "max_expense",
+        "limit": 400000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "Minimum Fixed Overhead Cover",
+        "limit": 228.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.3",
+        "type": "max_single_tx",
+        "limit": 350000.0,
+        "period_start": null,
+        "period_end": null
+      }
+    ]
+  },
+  "a16e232ee8c7.pdf": {
+    "account_id": "ACC-7503",
+    "covenants": []
+  },
+  "a368e0bcc454.pdf": {
+    "account_id": "ACC-7602",
+    "covenants": []
+  },
+  "a3b7f9669f96.pdf": {
+    "account_id": "ACC-7302",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "квартальный лимит маркетинговых расходов",
+        "limit": 300000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "квартальные_расходы",
+        "limit": 900000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.3",
+        "type": "максимальные платежи связанным сторонам",
+        "limit": 400000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      }
+    ]
+  },
+  "a48f9c414c3e.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "a4933ea3edbf.pdf": {
+    "account_id": "ACC-7202",
+    "covenants": []
+  },
+  "a4c7ce7cdadf.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "a560fc9ca166.pdf": {
+    "account_id": "ACC-7301",
+    "covenants": []
+  },
+  "a5a6d53d8f3a.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "a691e176c1cc.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "a6f01c8d57bd.pdf": {
+    "account_id": "ACC-7401",
+    "covenants": []
+  },
+  "a7331a051e89.pdf": {
+    "account_id": "ACC-7402",
+    "covenants": []
+  },
+  "a8599436a3ad.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "a9585a28b9fb.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "a962db2860e3.pdf": {
+    "account_id": "ACC-7502",
+    "covenants": []
+  },
+  "a9f79b7c201a.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "aa0b73b6c16a.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "aa0dd5d2c543.pdf": {
+    "account_id": "ACC-7501",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "минимальный коэффициент покрытия обслуживания долга",
+        "limit": 1250000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "min_revenue",
+        "limit": 6800000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.3",
+        "type": "максимальные платежи связанным сторонам",
+        "limit": 350000.0,
+        "period_start": null,
+        "period_end": null
+      }
+    ]
+  },
+  "aaba04bbc79c.pdf": {
+    "account_id": "ACC-7003",
+    "covenants": []
+  },
+  "ab1e21243632.pdf": {
+    "account_id": "ACC-7602",
+    "covenants": []
+  },
+  "ab47529594e6.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "ac803c306844.pdf": {
+    "account_id": "ACC-7604",
+    "covenants": []
+  },
+  "ad23b7760a2c.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "ad66783c1989.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "adf42e1bdbf2.pdf": {
+    "account_id": "ACC-7604",
+    "covenants": []
+  },
+  "ae477cc510f9.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "af0c2f7eb01c.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "af565a53d07d.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "afa7483e562e.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "afc367c8ea94.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "aff306acae4c.pdf": {
+    "account_id": "ACC-7504",
+    "covenants": []
+  },
+  "b105665c690e.pdf": {
+    "account_id": "ACC-7002",
+    "covenants": []
+  },
+  "b39fd7845d8d.pdf": {
+    "account_id": "ACC-7504",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "максимальный коэффициент долговой нагрузки",
+        "limit": 1000000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "min_revenue",
+        "limit": 7600000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.3",
+        "type": "max_single_tx",
+        "limit": 200000.0,
+        "period_start": null,
+        "period_end": null
+      }
+    ]
+  },
+  "b5191607287f.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "b841d20cc6ef.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "b8b39d58fc58.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "b96708b1cddc.pdf": {
+    "account_id": "ACC-7301",
+    "covenants": []
+  },
+  "b97ebd475865.pdf": {
+    "account_id": "ACC-7303",
+    "covenants": []
+  },
+  "bc1c9e026b22.pdf": {
+    "account_id": "ACC-7001",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "max_expense",
+        "limit": 2000000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "min_revenue",
+        "limit": 5750000.0,
+        "period_start": null,
+        "period_end": null
+      },
+      {
+        "clause": "6.3",
+        "type": "max_single_tx",
+        "limit": 275000.0,
+        "period_start": null,
+        "period_end": null
+      }
+    ]
+  },
+  "bc3a96f0042d.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "bd3405623455.pdf": {
+    "account_id": "ACC-7503",
+    "covenants": []
+  },
+  "bd975dc1d9ef.pdf": {
+    "account_id": "ACC-7505",
+    "covenants": []
+  },
+  "be39db5ec0b3.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "bea5b00b5a13.pdf": {
+    "account_id": "ACC-7605",
+    "covenants": []
+  },
+  "c01fdde84a79.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "c046c5d15cb1.pdf": {
+    "account_id": "ACC-7205",
+    "covenants": []
+  },
+  "c13c2f8c5515.pdf": {
+    "account_id": "ACC-7403",
+    "covenants": []
+  },
+  "c1d24a63d9bc.pdf": {
+    "account_id": "ACC-7001",
+    "covenants": []
+  },
+  "c222eb49ec62.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "c5e12f0a30be.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "c68ecbebed2d.pdf": {
+    "account_id": "ACC-7202",
+    "covenants": []
+  },
+  "cab32d46e2cb.pdf": {
+    "account_id": "ACC-7830",
+    "covenants": []
+  },
+  "cc86ae6b4143.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "cc94d4149251.pdf": {
+    "account_id": "ACC-7831",
+    "covenants": []
+  },
+  "cf05d3e6f346.pdf": {
+    "account_id": "ACC-7401",
+    "covenants": []
+  },
+  "cfde3ac78646.pdf": {
+    "account_id": "ACC-7302",
+    "covenants": []
+  },
+  "d0f6abe5ac61.pdf": {
+    "account_id": "ACC-7402",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "maximum_payment_limit",
+        "limit": 250000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "Minimum Liquidity Contribution",
+        "limit": 8000000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.3",
+        "type": "Ограничительные обязательства",
+        "limit": 400000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      }
+    ]
+  },
+  "d13f5284ca9b.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "d1fd122f36f5.pdf": {
+    "account_id": "ACC-7504",
+    "covenants": []
+  },
+  "d3372ebab938.pdf": {
+    "account_id": "ACC-7302",
+    "covenants": []
+  },
+  "d66851e8945e.pdf": {
+    "account_id": "ACC-7303",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "limite_capitalizatsiyi",
+        "limit": 20000000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "insurance_cover_linked_to_capital_expenditure",
+        "limit": 250000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.3",
+        "type": "Ограничительные обязательства",
+        "limit": 280000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      }
+    ]
+  },
+  "d6b4941d1476.pdf": {
+    "account_id": "ACC-7602",
+    "covenants": []
+  },
+  "d6e3d243932f.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "d817fecc839b.pdf": {
+    "account_id": "TELE-4471",
+    "covenants": []
+  },
+  "d8e89e347635.pdf": {
+    "account_id": "ACC-7203",
+    "covenants": []
+  },
+  "d9cd2cfa414c.pdf": {
+    "account_id": "ACC-7203",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "max_expense",
+        "limit": 250000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "min_post_personnel_operating_margin",
+        "limit": 6700000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.3",
+        "type": "max_expense",
+        "limit": 400000.0,
+        "period_start": null,
+        "period_end": null
+      }
+    ]
+  },
+  "da1c5d70ede4.pdf": {
+    "account_id": "ACC-7831",
+    "covenants": []
+  },
+  "da282017c8dd.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "dbb29514d80c.pdf": {
+    "account_id": "ACC-7002",
+    "covenants": []
+  },
+  "dbe7c27375ef.pdf": {
+    "account_id": "ACC-7003",
+    "covenants": []
+  },
+  "dc7b74399f6b.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "dddab18ec9a9.pdf": {
+    "account_id": "ACC-7604",
+    "covenants": []
+  },
+  "de028cc6f42b.pdf": {
+    "account_id": "ACC-7504",
+    "covenants": []
+  },
+  "decd34016c6c.pdf": {
+    "account_id": "ACC-7832",
+    "covenants": []
+  },
+  "e0a949fba500.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "e11e5935eda1.pdf": {
+    "account_id": "ACC-7205",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "максимальный коэффициент долговой нагрузки",
+        "limit": 3.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "min_retained_financing_proceeds",
+        "limit": 1000000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.3",
+        "type": "максимальные платежи связанным сторонам",
+        "limit": 450000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      }
+    ]
+  },
+  "e2822cd2d8cb.pdf": {
+    "account_id": "ACC-7303",
+    "covenants": []
+  },
+  "e2a42bda15b1.pdf": {
+    "account_id": "ACC-7605",
+    "covenants": []
+  },
+  "e3c33c7e933b.pdf": {
+    "account_id": "ACC-7604",
+    "covenants": []
+  },
+  "e55d3fc5ee14.pdf": {
+    "account_id": "ACC-7302",
+    "covenants": []
+  },
+  "e57240f389df.pdf": {
+    "account_id": "ACC-7303",
+    "covenants": []
+  },
+  "e62258086985.pdf": {
+    "account_id": "ACC-7501",
+    "covenants": []
+  },
+  "e683600277dd.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "e6aa17300ff1.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "e72e917af10d.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "e7b85d131f99.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "e89d8752c5b1.pdf": {
+    "account_id": "ACC-7301",
+    "covenants": [
+      {
+        "clause": "6.1",
+        "type": "довольствие",
+        "limit": 1000000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.2",
+        "type": "maximum_fiscal_burden_ratio",
+        "limit": 2300000.0,
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31"
+      },
+      {
+        "clause": "6.3",
+        "type": "Ограничение разовой транзакции",
+        "limit": 450000.0,
+        "period_start": null,
+        "period_end": null
+      }
+    ]
+  },
+  "ea751d35a2e5.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "ea80a1ba2b3d.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "eaf5ba5804c5.pdf": {
+    "account_id": "OPS-014",
+    "covenants": []
+  },
+  "eb15bb0eabef.pdf": {
+    "account_id": "ACC-7403",
+    "covenants": []
+  },
+  "eb7446e87c90.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "ecb1cace4211.pdf": {
+    "account_id": "ACC-7502",
+    "covenants": []
+  },
+  "ed8c1f75dafe.pdf": {
+    "account_id": "ACC-7203",
+    "covenants": []
+  },
+  "f091f290b391.pdf": {
+    "account_id": "ACC-7403",
+    "covenants": []
+  },
+  "f1bd5b747cba.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "f1eaee11a42c.pdf": {
+    "account_id": "ACC-7403",
+    "covenants": []
+  },
+  "f28adf762355.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "f5330f6b1fbd.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "f5c0bffd5f78.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "f604ca60ac0d.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "f6acd67664ab.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "f6f99f169538.pdf": {
+    "account_id": "ACC-7502",
+    "covenants": []
+  },
+  "f818ddaa3487.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "f8cbe9d4c38b.pdf": {
+    "account_id": "ACC-7606",
+    "covenants": []
+  },
+  "f941d9c49f0f.pdf": {
+    "account_id": "ACC-7505",
+    "covenants": []
+  },
+  "f968feb3cd71.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "fa0f7f76f31b.pdf": {
+    "account_id": "ACC-7601",
+    "covenants": []
+  },
+  "fa2141932638.pdf": {
+    "account_id": "ACC-7606",
+    "covenants": []
+  },
+  "fa6220ca67d9.pdf": {
+    "account_id": "ACC-7301",
+    "covenants": []
+  },
+  "faba2bf4d7e9.pdf": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  },
+  "ff6e12184434.pdf": {
+    "account_id": "ACC-7505",
+    "covenants": []
+  },
+  "~$lock.docx": {
+    "account_id": "UNKNOWN",
+    "covenants": []
+  }
+}
